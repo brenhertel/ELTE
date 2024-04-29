@@ -7,7 +7,7 @@ Robot skill learning and execution in uncertain and dynamic environments is a ch
 
 This repository is the implementation of Elastic-Laplacian Trajectory Editing, an LfD method for adaptation under heavy perturbations.
 
-<img src="https://github.com/brenhertel/ELTE/blob/main/pictures/elte_box.png" alt="" width="800"/>
+<img src="https://github.com/brenhertel/ELTE/blob/main/pictures/elte_box.png" alt="" width="400"/>
 
 This repository implements the method described in the paper above using Python. Scripts which perform individual experiments are included, as well as other necessary utilities. If you have any questions, please contact Brendan Hertel (brendan_hertel@student.uml.edu).
 
