@@ -1,7 +1,7 @@
 # ELTE
  Implementation of Elastic-Laplacian Trajectory Editing (ELTE)
 
-Corresponding paper can be found for free (COMING SOON), please read for method details. Accompanying video available [here](https://youtu.be/H342Y0Hxl_0).
+Corresponding paper can be found for free [here](https://arxiv.org/abs/2405.15711), please read for method details. Accompanying video available [here](https://youtu.be/H342Y0Hxl_0).
 
 Robot skill learning and execution in uncertain and dynamic environments is a challenging task. This paper proposes an adaptive framework that combines Learning from Demonstration (LfD), environment state prediction, and high-level decision making. Proactive adaptation prevents the need for reactive adaptation, which lags behind changes in the environment rather than anticipating them. We propose a novel LfD representation, Elastic-Laplacian Trajectory Editing (ELTE), which continuously adapts the trajectory shape to predictions of future states. Then, a high-level reactive system using an Unscented Kalman Filter (UKF) and Hidden Markov Model (HMM) prevents unsafe execution in the current state of the dynamic environment based on a discrete set of decisions. We first validate our LfD representation in simulation, then experimentally assess the entire framework using a legged mobile manipulator in 36 real-world scenarios. We show the effectiveness of the proposed framework under different dynamic changes in the environment. Our results show that the proposed framework produces robust and stable adaptive behaviors.
 
