@@ -16,7 +16,9 @@ If you use the code present in this repository, please cite the following paper:
 @inproceedings{donald2024adaptive,
   title={An Adaptive Framework for Manipulator Skill Reproduction in Dynamic Environments},
   author={Donald, Ryan and Hertel, Brendan and Misenti, Stephen and Gu, Yan and Azadeh, Reza},
-  booktitle={21st International Conference on Ubiquitous Robots (UR)},
-  year={2024}
+  booktitle={2024 21st International Conference on Ubiquitous Robots (UR)},
+  pages={498--503},
+  year={2024},
+  organization={IEEE}
 }
 ```
